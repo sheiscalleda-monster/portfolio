@@ -1,0 +1,47 @@
+.curs{
+      font-family: "Noto Serif", serif;
+      font-optical-sizing: auto;
+      font-weight: 500;
+      font-style: normal;
+      color:#054368
+      
+      
+    }
+.lead{
+    
+        font-family: "Satisfy", cursive;
+        font-weight: 400;
+        font-style: normal;
+        color:#EEF7FF;
+       }
+.back{
+    background-color: #7AB2B2;
+}
+.headphoto{
+    border-radius: 45%;
+    text-align: center;
+}
+.dark{
+color:black;
+font-family: "Noto Serif", serif;
+      font-optical-sizing: auto;
+      font-weight: 400;
+
+}
+.flo{
+    float:left;
+}
+.blue{
+    background-color: #E3FEF7;
+}
+.inner{
+    color:#003C43;
+}
+
+.fl{
+    display:flex;
+    justify-content: space-between;
+}
+.bb{
+    color:#003C43
+}
